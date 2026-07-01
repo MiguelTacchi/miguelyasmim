@@ -49,12 +49,6 @@ export default function HomePage() {
             </div>
           </div>
         </div>
-        <div className="hero-arrow">
-          <span>
-            <div className="hero-line" />
-            Scroll
-          </span>
-        </div>
       </div>
       <footer>
         <p>Miguel ♡ Yasmim</p>
